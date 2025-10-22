@@ -1,6 +1,6 @@
 # Image Cartoonifier
 
-A Python-based image processing project that transforms regular photographs into cartoon-style images with flat colors and bold edges.
+A Python-based image processing project that transforms regular photographs into cartoon-style images with flat colors .
 
 ## Overview
 
