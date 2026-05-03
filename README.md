@@ -75,6 +75,16 @@ image_path = 'images/input/your_image.jpg'
 
 Input images and their cartoonified outputs can be found in the `images/` directory.
 
+## Results
+
+Below are a few input/output pairs from the sample images.
+
+| Example | Input | Output |
+| --- | --- | --- |
+| Image 1 | ![Image 1 input](images/input/image1.jpg) | ![Image 1 output](images/output/image1_output.jpg) |
+| Image 2 | ![Image 2 input](images/input/image2.jpg) | ![Image 2 output](images/output/image2_output.jpg) |
+| Image 3 | ![Image 3 input](images/input/image3.jpg) | ![Image 3 output](images/output/image3_output.jpg) |
+
 ## Technical Details
 
 ### Filters Used:
